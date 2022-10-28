@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/sttofel/curso-cypress-intermediario#readme",
   "devDependencies": {
-    "cypress": "^3.8.0",
+    "cypress": "^10.11.0",
     "faker": "^4.1.0"
   }
 }
