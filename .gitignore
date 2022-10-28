@@ -1,0 +1,7 @@
+.DS_Store
+cypress.env.json
+accesstokengitlab.txt
+cypress/screenshots/
+cypress/videos/
+node_modules/
+temp/
